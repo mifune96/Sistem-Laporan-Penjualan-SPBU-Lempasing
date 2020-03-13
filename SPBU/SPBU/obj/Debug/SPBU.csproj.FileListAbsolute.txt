@@ -1,0 +1,96 @@
+D:\TA PPL\SBPU\SPBU\SPBU\bin\Debug\SPBU.exe.config
+D:\TA PPL\SBPU\SPBU\SPBU\bin\Debug\SPBU.exe
+D:\TA PPL\SBPU\SPBU\SPBU\bin\Debug\SPBU.pdb
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.csprojResolveAssemblyReference.cache
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.menuUtama.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.Properties.Resources.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.csproj.GenerateResource.Cache
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.exe
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.pdb
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\bin\Debug\SPBU.exe.config
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.exe
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.pdb
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\bin\Debug\SPBU.exe
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\bin\Debug\SPBU.pdb
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.csprojResolveAssemblyReference.cache
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_LOGIN.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENGELUARAN.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_POMPA.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_TRANSAKSI.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.GUI.menuUtama.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.Properties.Resources.resources
+D:\LEARN\Kuliah\PPL\PPL Ganti Project\SPBU\SPBU\obj\Debug\SPBU.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\bin\Debug\SPBU.exe.config
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\obj\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\obj\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\bin\Debug\SPBU.exe.config
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\bin\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\bin\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_LOGIN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENGELUARAN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_POMPA.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_TRANSAKSI.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.GUI.menuUtama.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.Properties.Resources.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-1\SPBU\SPBU\obj\Debug\SPBU.csproj.GenerateResource.Cache
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_LOGIN.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENGELUARAN.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_POMPA.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_TRANSAKSI.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_BBM.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENERIMAAN.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_Pompa.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPerbulan.resources
+D:\TA PPL\SBPU\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPertanggal.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.exe.config
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_BBM.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_Pompa.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPerbulan.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPertanggal.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_LOGIN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENERIMAAN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENGELUARAN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_POMPA.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_TRANSAKSI.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.menuUtama.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.Properties.Resources.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SP\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.exe.config
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_BBM.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_Pompa.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPerbulan.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Dialog_TransaksiPertanggal.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_LOGIN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENERIMAAN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_PENGELUARAN.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_POMPA.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_TRANSAKSI.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.menuUtama.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.Properties.Resources.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_Laporan.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.exe.manifest
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\SPBU.application
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.exe.manifest
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.application
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\bin\Debug\aa\SPBU.resources.dll
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\SPBU.GUI.Form_BBM.aa.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\SistemLaporanPenjualan-progres-3\SPBU\SPBU\obj\Debug\aa\SPBU.resources.dll
